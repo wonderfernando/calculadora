@@ -1,0 +1,20 @@
+.functionButton{
+    margin: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    padding:12px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    background: transparent;
+    color: #fff;
+    
+}
+.functionButton{
+    margin: 1px;
+    padding:12px;
+    background-color: #333;
+}
+.functionButton:hover{
+    background: #444;
+}
